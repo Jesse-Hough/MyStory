@@ -17,27 +17,26 @@ The following **required** functionality is completed:
  
 The following **optional** features are implemented:
 
-- [ ] Improve and customize the user interface through styling and coloring
+- [x] Improve and customize the user interface through styling and coloring
 - [ ] Allow users to scroll when context items are off-screen (table view implemention)
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- N/A
 
 ## Video Walkthrough
 
 **Iphone 14 Walkthrough**
 https://youtube.com/shorts/0XPnoXy2rZI
 
-<iframe width="389" height="692" src="https://www.youtube.com/embed/0XPnoXy2rZI" title="Simulator Screen Recording   iPhone 14 Pro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[![Simulator Screen Recording iPhone SE 3rd generation](https://youtube.com/shorts/0XPnoXy2rZI/0.jpg)](https://youtube.com/shorts/0XPnoXy2rZI)
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+- One challenge was getting different pages to be able to display when touching the buttons on the home page.
+- Another challenge was finding a picture that is the correct size for the app face. To do this, I used an image re-sizer to format to 1024 x 1024
 
 ## License
 
