@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 **Iphone 14 Walkthrough**
 https://youtube.com/shorts/0XPnoXy2rZI
 
-<iframe width="389" height="692" src="https://www.youtube.com/embed/0XPnoXy2rZI" title="Simulator Screen Recording   iPhone 14 Pro   2023 09 07 at 22 43 56" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="389" height="692" src="https://www.youtube.com/embed/0XPnoXy2rZI" title="Simulator Screen Recording   iPhone 14 Pro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
