@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 **Iphone 14 Walkthrough**
 https://youtube.com/shorts/0XPnoXy2rZI
 
-[![Simulator Screen Recording iPhone SE 3rd generation](https://youtube.com/shorts/0XPnoXy2rZI/0.jpg)](https://youtube.com/shorts/0XPnoXy2rZI)
+[![Simulator Screen Recording iPhone SE 3rd generation]([https://youtube.com/shorts/0XPnoXy2rZI/0.jpg](https://i.ytimg.com/vi/0XPnoXy2rZI/hq2.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAAlAADIQj0AgKJDeAHwAQH4AfIGgAKAD4oCDAgAEAEYRSBUKGUwDw==&rs=AOn4CLBMkLSBxKKu2AiM0qx_MgYVFStWHA))](https://youtube.com/shorts/0XPnoXy2rZI)
 
 ## Notes
 
