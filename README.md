@@ -32,6 +32,8 @@ https://youtube.com/shorts/0XPnoXy2rZI
 [![Simulator Screen Recording iPhone 14 Pro](https://i.ytimg.com/vi/0XPnoXy2rZI/hq2.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAAlAADIQj0AgKJDeAHwAQH4AfIGgAKAD4oCDAgAEAEYRSBUKGUwDw==&rs=AOn4CLBMkLSBxKKu2AiM0qx_MgYVFStWHA)](https://youtube.com/shorts/0XPnoXy2rZI?si=68hHkg0NTfqBF089)
 
 
+**Iphone SE 3rd Generation Walkthrough**
+https://youtube.com/shorts/uSvRi7QuVJk?si=5te5eZfHG7bUy5Ot
 
 [![Simulator Screen Recording iPhone SE 3rd generation](https://i.ytimg.com/vi/uSvRi7QuVJk/hq2.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAAlAADIQj0AgKJDeAHwAQH4Ac4FgAKACooCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLBZTdQAvRMP1V2pfDQRgA_g4B3gKw)](https://youtube.com/shorts/uSvRi7QuVJk?si=5te5eZfHG7bUy5Ot)
 
